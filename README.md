@@ -28,11 +28,11 @@ Wordgo uygulamasını indirmek ve kullanmak için aşağıdaki adımları izleyi
 
 ## Katkıda Bulunma
 
-Eğer Wordgo uygulamasına katkıda bulunmak veya hataları rapor etmek isterseniz, lütfen [mail adresi](info@labx.studio) üzerinden bizimle iletişime geçin.
+Eğer Wordgo uygulamasına katkıda bulunmak veya hataları rapor etmek isterseniz, lütfen [mail adresi](https://labx.studio/) üzerinden bizimle iletişime geçin.
 
 ## İletişim
 
-Herhangi bir soru, öneri veya şikayetiniz varsa, lütfen bizimle [iletişime geçin](info@labx.studio).
+Herhangi bir soru, öneri veya şikayetiniz varsa, lütfen bizimle [iletişime geçin](https://labx.studio/).
 
 Bu README dosyasını incelediğiniz için teşekkür ederiz. İngilizce öğrenme yolculuğunuzda size yardımcı olmak için buradayız!
 
